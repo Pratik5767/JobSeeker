@@ -1,0 +1,11 @@
+# Ignore the metadata folder in this directory
+.metadata/
+
+# Ignore build and IDE/project files
+*.iml
+.idea/
+.vscode/
+target/
+build/
+.DS_Store
+Thumbs.db
